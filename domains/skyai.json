@@ -1,6 +1,7 @@
 {
   "owner": {
-    "username": "Sujeet-python"
+    "username": "Sujeet-python",
+    "email": "sujeetrkamble@gmail.com"
   },
   "record": {
     "CNAME": "skyai-webapp.netlify.app"
